@@ -2,6 +2,12 @@
 
 Bienvenido al repositorio del proyecto **GuitarLA**. Este es un sitio web para una tienda de guitarras donde los usuarios pueden explorar y comprar diferentes tipos de guitarras.
 
+## Live Preview
+
+Puedes visualizar una versión en vivo del proyecto en el siguiente enlace:
+
+[Live Preview de GuitarLA](https://66fa37fdf362fcde62973f60--sweet-frangipane-679da0.netlify.app/)
+
 ## Características
 
 - Navegación sencilla y rápida.
